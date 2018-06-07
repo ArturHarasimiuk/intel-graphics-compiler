@@ -1,6 +1,7 @@
 
 srpm:
 	pwd
-	ls -l
-	du -sh *
-	env
+	ls -la
+	cd ..
+	pwd
+	ls -la
